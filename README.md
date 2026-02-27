@@ -1,2 +1,2 @@
 # Akote
-Application de commerce de proximité
+Application de commerce à proximité
